@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bootcamp_DIO/1.0.0": {
+        "runtime": {
+          "Bootcamp_DIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bootcamp_DIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

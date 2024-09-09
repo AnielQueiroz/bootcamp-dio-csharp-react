@@ -1,0 +1,14 @@
+C:\Code\Bootcamp_DIO\bin\Debug\net8.0\Bootcamp_DIO.exe
+C:\Code\Bootcamp_DIO\bin\Debug\net8.0\Bootcamp_DIO.deps.json
+C:\Code\Bootcamp_DIO\bin\Debug\net8.0\Bootcamp_DIO.runtimeconfig.json
+C:\Code\Bootcamp_DIO\bin\Debug\net8.0\Bootcamp_DIO.dll
+C:\Code\Bootcamp_DIO\bin\Debug\net8.0\Bootcamp_DIO.pdb
+C:\Code\Bootcamp_DIO\obj\Debug\net8.0\Bootcamp_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Bootcamp_DIO\obj\Debug\net8.0\Bootcamp_DIO.AssemblyInfoInputs.cache
+C:\Code\Bootcamp_DIO\obj\Debug\net8.0\Bootcamp_DIO.AssemblyInfo.cs
+C:\Code\Bootcamp_DIO\obj\Debug\net8.0\Bootcamp_DIO.csproj.CoreCompileInputs.cache
+C:\Code\Bootcamp_DIO\obj\Debug\net8.0\Bootcamp_DIO.dll
+C:\Code\Bootcamp_DIO\obj\Debug\net8.0\refint\Bootcamp_DIO.dll
+C:\Code\Bootcamp_DIO\obj\Debug\net8.0\Bootcamp_DIO.pdb
+C:\Code\Bootcamp_DIO\obj\Debug\net8.0\Bootcamp_DIO.genruntimeconfig.cache
+C:\Code\Bootcamp_DIO\obj\Debug\net8.0\ref\Bootcamp_DIO.dll
